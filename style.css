@@ -138,7 +138,6 @@ button {
 }
 
 /* Media Queries para ajustes específicos */
-
 /* Para maximo de 600px */
 @media (max-width: 600px) {
   nav ul {
