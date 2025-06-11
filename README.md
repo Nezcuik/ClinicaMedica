@@ -4,7 +4,7 @@
 
 ## Info
 
-* Este es un proyecto de prueba
+* Este es un proyecto de prueba.
 
 ### Actualizacion --/--/25
 
