@@ -54,7 +54,7 @@ main {
 /* Quienes somos: cajas grandes, fijas */
 .quienes-box1,  .quienes-box2 {
   /* width: 130px; */
-  width: 400px;
+  width: 300px;
   background: #eeeeee;
   /* margin-bottom: 20px; */
   padding: 20px;
@@ -154,8 +154,8 @@ button {
     align-items: center;
   }
 
-  .quienes-box {
-    max-width: 90%;
+  .quienes-box1, .quienes-box2 {
+    max-width: 70%;
   }
 
   #servicios-flex {
